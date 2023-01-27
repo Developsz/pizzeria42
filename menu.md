@@ -15,7 +15,20 @@
 |7. |DUO (sos pomidorowy, ser, szynka, kukurydza)                  |         |26 zł |47 zł  |57 zł |
 |8. |TRIO (sos pomidorowy, ser, pirczarki,szynka, boczek)          |         |26 zł |48 zł  |58 zł |
 |9. |DIABLO (sos pomidorowy, ser, salami, chilli)                  |         |26 zł |49 zł  |59 zł |
-|10. |GÓRALSKA (sos pomidorowy, ser, salami,oscypek)               |         |26 zł |50 zł  |60 zł |
+|10.|GÓRALSKA (sos pomidorowy, ser, salami,oscypek)                |         |26 zł |50 zł  |60 zł |
+
+## Pizze wegetariańskie
+
+<img src = "img/najlepsze-pizze-wegetarianskie.jpg" width = 300>
+
+|Lp.|Pizza                                                        |rozmiar: |30 cm | 50 cm | 60 cm|
+|---|--------------------------------------------------------------|---------|------|-------|------|
+|1. |MARGHERITA (sos pomidorowy, ser, oregano)                     |         |20 zł |40 zł  |50 zł | 
+|2. |FUNGHI (sos pomidorowy, ser, pieczrki)                        |         |22 zł |42 zł  |52 zł |
+|3. |SALAMI (sos pomidorowy, ser mozzarella, kiełbaska wege )      |         |23 zł |43 zł  |53 zł |
+|4. |VESUVIO (sos pomidorowy, podwójny ser, tofu)                  |         |24 zł |44 zł  |54 zł |
+|5. |MILANO (sos pomidorowy, ser, papryka, oregano)                |         |26 zł |45 zł  |55 zł |
+|6. |GRECKA (sos pomidorowy, ser, oliwki, sałata lodowa)           |         |25 zl |45 zł  |55 zł |
 
 ## Mini pizze
 
@@ -60,6 +73,15 @@
 |2. |Z WOŁOWINĄ (szarpana wolowina, warzywa, sos do wyboru)          | 22 zł|
 |3. |Z WIEPRZOWINĄ (szarpana wieprzowina, warzywa, sos do wyboru)    | 22 zł|
 |4. |Z SEREM (3 sery, frytki i dowolne warzywa lub mięso)            | 20 zł|
+
+## Sałatki
+
+<img src = "img/28380917-v-1080x1080.jpg " width = 300>
+
+1. CEZAR (sałata, pomidor, ogórek, grzanki,sos)  - 15 zł   
+2. GRECKA (sałata, pomidor, ogórek, oliwki, ser feta ,sos) - 20 zł
+3. FRANCUZKA (sałata, pomidor, ogórek,sos, bagietka z masłem) - 23 zł
+
 
 ## Naleśniki 
 
