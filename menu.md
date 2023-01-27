@@ -142,6 +142,8 @@
 |5. |MUSZTARDA                         | 2 zł |
 
 ## Dodatki 
+
+<img src = "img/surya-prakash-4dXKaVnm7_w-unsplash.jpg" width 300>
 1. Cukinia - 5 zł
 2. Karczochy - 6 zł
 3. Krewetki - 10 zł
