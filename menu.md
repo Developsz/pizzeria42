@@ -141,6 +141,11 @@
 |4. |MAJONEZ                           | 2 zł |
 |5. |MUSZTARDA                         | 2 zł |
 
+## Dodatki 
+1. Cukinia - 5 zł
+2. Karczochy - 6 zł
+3. Krewetki - 10 zł
+
 
 
 
