@@ -1,2 +1,2 @@
 # pizzeria42
-Ten plik należy do gałeźi vege
+To jest strona naszej pizzeri.
