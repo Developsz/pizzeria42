@@ -73,7 +73,7 @@
 |4. |KLASYK ( masło orzechowe i dżem )                               |12 zł |
 
 ## Deser
-<img scr = "img/anna-tukhfatullina-food-photographer-stylist-Mzy-OjtCI70-unsplash.jpg" width = 300>
+<img src = "img/anna-tukhfatullina-food-photographer-stylist-Mzy-OjtCI70-unsplash.jpg" width = 300>
 
 |Lp.| Deser                                      | cena |
 |---|--------------------------------------------|------|
@@ -85,7 +85,7 @@
 
 ## Lemoniada
 
-<img scr = "img/charity-beth-long-_PaXoN4_2s0-unsplash.jpg" width = 300>
+<img src = "img/charity-beth-long-_PaXoN4_2s0-unsplash.jpg" width = 300>
 
 |Lp.| Lemoniada              | cena |
 |---|------------------------|------|
@@ -97,7 +97,7 @@
 
 ## Napoje gazowane
 
-<img scr = "img/artem-beliaikin-jlWoIsNTKjA-unsplash.jpg" width = 300>
+<img src = "img/artem-beliaikin-jlWoIsNTKjA-unsplash.jpg" width = 300>
 
 |Lp.| Napoje gazowane                  | cena |
 |---|----------------------------------|------|
@@ -109,7 +109,7 @@
 
 ## Sosy
 
-<img scr = "img/Sos do tortilli.jpg" width = 300>
+<img src = "img/Sos do tortilli.jpg" width = 300>
 
 |Lp.| Sosy                             | cena |
 |---|----------------------------------|------|
